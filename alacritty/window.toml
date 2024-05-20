@@ -1,0 +1,5 @@
+[window]
+dimensions = { columns = 120, lines = 25 }
+padding = { x = 10, y = 10 }
+dynamic_padding = true
+decorations = "Full"

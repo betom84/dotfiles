@@ -1,0 +1,8 @@
+live_config_reload=true
+
+import = [
+   "~/.config/alacritty/window.toml",
+   "~/.config/alacritty/font.toml",
+   "~/.config/alacritty/keyboard.toml",
+   "~/.config/alacritty/themes/gruvbox_dark.toml",
+]
